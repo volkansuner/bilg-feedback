@@ -13,5 +13,7 @@ The product source is not in this repository. Use it for:
 - **Questions** — how to connect a client, how agents are expected to use epics, and so on.
 
 Connecting an agent: <https://app.bilgai.com/docs/connect>
+MCP listings: [official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.bilgai) · [Glama](https://glama.ai/mcp/connectors/com.bilgai/bilg)
+VS Code extension: [Marketplace](https://marketplace.visualstudio.com/items?itemName=bilg.bilg-vscode)
 Status page: <https://bilg.betteruptime.com/>
 Support by email: support@bilgai.com
