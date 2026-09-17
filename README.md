@@ -1,5 +1,7 @@
 # Bilg — feedback and issues
 
+[![Bilg MCP connector - tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.bilgai/bilg/badges/score.svg)](https://glama.ai/mcp/connectors/com.bilgai/bilg)
+
 This is the public issue tracker for [Bilg](https://app.bilgai.com), a shared context layer for
 teams that build with AI agents: documents, epics, tasks and decisions in one place, read and
 written by people and their agents over MCP.
